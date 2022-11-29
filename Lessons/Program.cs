@@ -3,8 +3,8 @@
 //Например: 4->16
 //-3->9 -7->49
 
-int = = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine());
 
-int  * =  = * number;
+int result = number * number;
 
-Console.WriteLine(;
+Console.WriteLine(result);
